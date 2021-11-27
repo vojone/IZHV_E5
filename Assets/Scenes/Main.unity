@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731713, g: 0.13414736, b: 0.12107852, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1739,7 +1739,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characters:
   - {fileID: 5726691811145929459, guid: 95dbc3ddd67476348aca8106b6a2cbce, type: 3}
-  - {fileID: 529496081191495076, guid: 8a9155143bf99e64c81a8fa5598c2034, type: 3}
+  - {fileID: 9055076351618638175, guid: 88860a1db2d194c4db653cd57bed620d, type: 3}
   - {fileID: 8459062092258468857, guid: 78e3737787c8f4a4b9b3669c74e04303, type: 3}
   - {fileID: 4275111464654331570, guid: 88a8cbb7543f4c340b384927473b1cd3, type: 3}
   - {fileID: 1158399153436498268, guid: 72a081912ed77d544a2d6db9c90b09e8, type: 3}
@@ -3317,19 +3317,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6621711666501248908, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_NormalizedViewPortRect.x
-      value: 0
+      value: 0.13214551
       objectReference: {fileID: 0}
     - target: {fileID: 6621711666501248908, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_NormalizedViewPortRect.y
-      value: 0
+      value: 0.10247934
       objectReference: {fileID: 0}
     - target: {fileID: 6621711666501248908, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 1
+      value: 0.73496664
       objectReference: {fileID: 0}
     - target: {fileID: 6621711666501248908, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_NormalizedViewPortRect.height
-      value: 1
+      value: 0.7933884
       objectReference: {fileID: 0}
     - target: {fileID: 6651688984957350485, guid: b40db24374c0a5849a471933f427c13d, type: 3}
       propertyPath: m_RootOrder
